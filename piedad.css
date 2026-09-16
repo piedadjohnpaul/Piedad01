@@ -1,0 +1,53 @@
+header {
+    background: #1e293b;
+    padding: 15px 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.logo1 {
+    color: white;
+    font-size: 24px;
+    font-weight: bold;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin-left: 20px;
+}
+
+.hero1 {
+    background: #2563eb;
+    text-align: center;
+    padding: 80px 20px;
+    color: white;
+}
+
+.hero1 h1 {
+    font-size: 40px;
+}
+
+.btn1 {
+    background: gray;
+    padding: 10px 25px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+.btn1:hover {
+    background: #555;
+}
+
+.content1 {
+    padding: 50px 20px;
+    text-align: center;
+}
+
+footer {
+    background: #0f172a;
+    color: #94a3b8;
+    text-align: center;
+    padding: 20px;
+}
